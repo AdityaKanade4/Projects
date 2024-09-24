@@ -1,0 +1,1 @@
+This project is about weed detection and classification, under the Prof. Aruna Tiwari at IIT Indore.
